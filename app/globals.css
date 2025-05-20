@@ -1,0 +1,100 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 36 33% 97%;
+    --foreground: 30 33% 25%;
+
+    --card: 36 33% 97%;
+    --card-foreground: 30 33% 25%;
+
+    --popover: 36 33% 97%;
+    --popover-foreground: 30 33% 25%;
+
+    --primary: 30 52% 36%;
+    --primary-foreground: 36 33% 97%;
+
+    --secondary: 39 77% 91%;
+    --secondary-foreground: 30 52% 36%;
+
+    --muted: 39 30% 96%;
+    --muted-foreground: 30 33% 35%;
+
+    --accent: 33 41% 68%;
+    --accent-foreground: 36 33% 97%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 36 33% 97%;
+
+    --border: 30 15% 85%;
+    --input: 30 15% 85%;
+    --ring: 30 52% 36%;
+
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 30 33% 15%;
+    --foreground: 36 33% 97%;
+
+    --card: 30 33% 15%;
+    --card-foreground: 36 33% 97%;
+
+    --popover: 30 33% 15%;
+    --popover-foreground: 36 33% 97%;
+
+    --primary: 30 52% 36%;
+    --primary-foreground: 36 33% 97%;
+
+    --secondary: 39 77% 91%;
+    --secondary-foreground: 30 52% 36%;
+
+    --muted: 30 33% 25%;
+    --muted-foreground: 30 15% 75%;
+
+    --accent: 33 41% 68%;
+    --accent-foreground: 36 33% 97%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 36 33% 97%;
+
+    --border: 30 33% 25%;
+    --input: 30 33% 25%;
+    --ring: 33 41% 68%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-playfair;
+  }
+  p,
+  a,
+  li,
+  span,
+  button {
+    @apply font-lato;
+  }
+}
+
+@layer utilities {
+  .font-playfair {
+    font-family: var(--font-playfair), serif;
+  }
+  .font-lato {
+    font-family: var(--font-lato), sans-serif;
+  }
+}
