@@ -3,6 +3,7 @@
 import Link from "next/link"
 import { MapPin, Phone, Clock, Mail } from "lucide-react"
 import { useLanguage } from "@/contexts/language-context"
+import Image from "next/image"
 
 export function Footer() {
   const { t } = useLanguage()
@@ -114,47 +115,29 @@ export function Footer() {
                   <span className="sr-only">Twitter</span>
                 </Link>
 
-                <Link
-                  href="#"
-                  className="h-10 w-10 flex items-center justify-center rounded-full border border-primary text-primary hover:bg-primary hover:text-white transition-colors"
+                 <Link
+                href="#"
+                className="h-10 w-10 flex items-center justify-center rounded-full border border-primary text-primary hover:bg-primary hover:text-white transition-colors"
                 >
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    width="18"
-                    height="18"
-                    viewBox="0 0 24 24"
-                    fill="none"
-                    stroke="currentColor"
-                    strokeWidth="2"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                  >
-                    <circle cx="12" cy="12" r="10" />
-                    <path d="M16.24 7.76a6 6 0 0 1 0 8.49m-8.48-.01a6 6 0 0 1 0-8.49m11.31-2.82a10 10 0 0 1 0 14.14m-14.14 0a10 10 0 0 1 0-14.14" />
-                  </svg>
+                  <Image
+                    src="/tripadvisor.svg"
+                    alt="TripAdvisor"
+                    width={18}
+                    height={18}
+                  />
                   <span className="sr-only">TripAdvisor</span>
                 </Link>
               </div>
 
+              {/* payment section */}
               <div className="pt-4 border-t border-border/30">
                 <p className="text-sm text-muted-foreground mb-2">{t("footer.payments")}</p>
                 <div className="flex gap-3">
                   <div className="h-8 w-12 bg-white rounded flex items-center justify-center shadow-sm">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="28" height="20" viewBox="0 0 28 20">
-                      <path fill="#1A1F71" d="M10.6 6.4h6.8v7.2h-6.8z" />
-                      <path
-                        fill="#F7981D"
-                        d="M11.5 10a4.7 4.7 0 0 1 1.8-3.6 4.7 4.7 0 0 0-2.9-.9 4.7 4.7 0 0 0 0 9.4 4.7 4.7 0 0 0 2.9-1 4.7 4.7 0 0 1-1.8-3.9z"
-                      />
-                      <path
-                        fill="#F7981D"
-                        d="M21 10c0 2.6-2.1 4.7-4.7 4.7a4.7 4.7 0 0 1-2.9-1 4.7 4.7 0 0 0 1.8-3.7c0-1.4-.6-2.7-1.8-3.6a4.7 4.7 0 0 1 2.9-.9c2.6 0 4.7 2 4.7 4.5z"
-                      />
-                      <path
-                        fill="#F7981D"
-                        d="M19.4 13.7v-.3h.1l.1.2.1-.2h.1v.3h-.1v-.2l-.1.2h-.1l-.1-.2v.2h-.1zm.7 0v-.2h-.1v-.1h.4v.1h-.1v.2h-.2z"
-                      />
-                    </svg>
+                      <Image src="/contactlesspayment.svg" alt="Apple Pay" width={28} height={20} />
+                  </div>
+                  <div className="h-8 w-12 bg-white rounded flex items-center justify-center shadow-sm">
+                    <Image src="/visa.svg" alt="Visa" width={28} height={20} />
                   </div>
                   <div className="h-8 w-12 bg-white rounded flex items-center justify-center shadow-sm">
                     <svg xmlns="http://www.w3.org/2000/svg" width="28" height="20" viewBox="0 0 28 20">
@@ -170,12 +153,7 @@ export function Footer() {
                     </svg>
                   </div>
                   <div className="h-8 w-12 bg-white rounded flex items-center justify-center shadow-sm">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="28" height="20" viewBox="0 0 28 20">
-                      <path
-                        d="M14 4.6c1.6 0 3.1.6 4.3 1.7a5.8 5.8 0 0 1 0 8.4 6 6 0 0 1-8.6 0 5.8 5.8 0 0 1 0-8.4A6 6 0 0 1 14 4.6zm3.5 2.5a5 5 0 0 0-7 0 4.8 4.8 0 0 0 0 6.8 5 5 0 0 0 7 0 4.8 4.8 0 0 0 0-6.8zm-6.3 1.7h.8l.2.8h.8l-.7-2.3h-.6l-.7 2.3h.8l.2-.8zm.1-.5l.3-1 .3 1h-.6zm2.3 1.3v-2.3h-.7v2.3h.7zm1.6 0v-.5h-1v-.5h.9v-.4h-.9v-.5h1v-.4h-1.7v2.3h1.7zm1.5 0l-.7-1.2.7-1.1h-.9l-.6 1v-1h-.7v2.3h.7v-1l.7 1h.8z"
-                        fill="#000"
-                      />
-                    </svg>
+                      <Image src="/applepay.svg" alt="Apple Pay" width={28} height={20} />
                   </div>
                 </div>
               </div>

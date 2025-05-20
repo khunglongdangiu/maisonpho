@@ -33,7 +33,7 @@ export function Navigation() {
       <div className="container flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2">
           <Image
-            src="/placeholder.svg?height=40&width=40"
+            src="/logo.png?height=40&width=40"
             alt="Maison Pho Logo"
             width={40}
             height={40}
@@ -86,7 +86,7 @@ export function Navigation() {
             <div className="flex justify-between items-center">
               <Link href="/" className="flex items-center gap-2">
                 <Image
-                  src="/placeholder.svg?height=40&width=40"
+                  src="/logo.png?height=40&width=40"
                   alt="Maison Pho Logo"
                   width={40}
                   height={40}

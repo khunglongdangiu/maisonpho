@@ -19,7 +19,7 @@ export default function Home() {
         <section className="relative h-screen flex items-center justify-center overflow-hidden">
           <div className="absolute inset-0 z-0">
             <Image
-              src="/placeholder.svg?height=1080&width=1920"
+              src="/banner_home.png?height=1080&width=1920"
               alt="Elegant Pho dish"
               fill
               priority
@@ -39,7 +39,7 @@ export default function Home() {
                 asChild
                 size="lg"
                 variant="outline"
-                className="border-white text-white hover:bg-white hover:text-primary"
+                className="border-white text-primary/90 hover:bg-white hover:text-primary"
               >
                 <Link href="#">{t("hero.reservation")}</Link>
               </Button>
@@ -75,7 +75,7 @@ export default function Home() {
               <div className="relative">
                 <div className="aspect-[4/5] rounded-lg overflow-hidden">
                   <Image
-                    src="/placeholder.svg?height=800&width=640"
+                    src="/chef_ava.png?height=800&width=640"
                     alt="Chef preparing Pho"
                     width={640}
                     height={800}
@@ -102,7 +102,7 @@ export default function Home() {
               <div className="bg-white rounded-lg overflow-hidden shadow-md transition-transform hover:scale-[1.02]">
                 <div className="aspect-[4/3] relative">
                   <Image
-                    src="/placeholder.svg?height=300&width=400"
+                    src="/pho_royal.png?height=300&width=400"
                     alt={t("menu.phoRoyal.title")}
                     width={400}
                     height={300}
@@ -128,7 +128,7 @@ export default function Home() {
               <div className="bg-white rounded-lg overflow-hidden shadow-md transition-transform hover:scale-[1.02]">
                 <div className="aspect-[4/3] relative">
                   <Image
-                    src="/placeholder.svg?height=300&width=400"
+                    src="/pho_seafood.png?height=300&width=400"
                     alt={t("menu.phoSeafood.title")}
                     width={400}
                     height={300}
@@ -156,7 +156,7 @@ export default function Home() {
               <div className="bg-white rounded-lg overflow-hidden shadow-md transition-transform hover:scale-[1.02]">
                 <div className="aspect-[4/3] relative">
                   <Image
-                    src="/placeholder.svg?height=300&width=400"
+                    src="/pho_veget.png?height=300&width=400"
                     alt={t("menu.phoVegetable.title")}
                     width={400}
                     height={300}
@@ -212,7 +212,7 @@ export default function Home() {
                   <p className="text-muted-foreground mb-6">{t("testimonials.1.text")}</p>
                   <div className="flex items-center">
                     <Image
-                      src="/placeholder.svg?height=50&width=50"
+                      src="/p1.png?height=50&width=50"
                       alt="Customer"
                       width={50}
                       height={50}
@@ -240,7 +240,7 @@ export default function Home() {
                   <p className="text-muted-foreground mb-6">{t("testimonials.2.text")}</p>
                   <div className="flex items-center">
                     <Image
-                      src="/placeholder.svg?height=50&width=50"
+                      src="/p2.png?height=50&width=50"
                       alt="Customer"
                       width={50}
                       height={50}
@@ -268,7 +268,7 @@ export default function Home() {
                   <p className="text-muted-foreground mb-6">{t("testimonials.3.text")}</p>
                   <div className="flex items-center">
                     <Image
-                      src="/placeholder.svg?height=50&width=50"
+                      src="/p3.png?height=50&width=50"
                       alt="Customer"
                       width={50}
                       height={50}

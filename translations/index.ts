@@ -215,6 +215,16 @@ export const translations = {
     "chat.title": "Maison Pho Assistant",
     "chat.welcome": "Hello! I'm your virtual assistant for Maison Pho. How can I help you today?",
     "chat.error": "I'm sorry, something went wrong. Please try again later.",
+
+    //Menu
+    "menu.sections.signaturePho": "Signature Pho",
+    "menu.sections.appetizers": "Appetizers",
+    "menu.sections.mainCourses": "Main Courses",
+    "menu.sections.desserts": "Desserts",
+    "menu.sections.beverages": "Beverages",
+    "menu.cta.title": "Ready to Experience Luxury Vietnamese Cuisine?",
+    "menu.cta.subtitle": "Join us for an unforgettable dining experience...",
+    "menu.cta.button": "Make a Reservation",
   },
   vi: {
     // Navigation
@@ -434,5 +444,15 @@ export const translations = {
     "chat.title": "Trợ Lý Maison Pho",
     "chat.welcome": "Xin chào! Tôi là trợ lý ảo của Maison Pho. Tôi có thể giúp gì cho bạn hôm nay?",
     "chat.error": "Tôi xin lỗi, đã xảy ra lỗi. Vui lòng thử lại sau.",
+
+    //Menu
+    "menu.sections.signaturePho": "Phở Đặc Biệt",
+    "menu.sections.appetizers": "Khai Vị",
+    "menu.sections.mainCourses": "Món Chính",
+    "menu.sections.desserts": "Tráng Miệng",
+    "menu.sections.beverages": "Đồ Uống",
+    "menu.cta.title": "Sẵn sàng thưởng thức ẩm thực Việt cao cấp?",
+    "menu.cta.subtitle": "Tham gia cùng chúng tôi cho một trải nghiệm ẩm thực khó quên...",
+    "menu.cta.button": "Đặt Bàn Ngay",
   },
 }
