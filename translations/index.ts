@@ -49,6 +49,128 @@ export const translations = {
     "menu.phoVegetable.tag1": "Vegan",
     "menu.phoVegetable.tag2": "Organic",
 
+    // Full Menu Page
+    "fullMenu.title": "Our Menu",
+    "fullMenu.subtitle":
+      "Discover our selection of premium Vietnamese dishes, crafted with the finest ingredients and traditional techniques",
+
+    "fullMenu.sections.signaturePho": "Signature Pho",
+    "fullMenu.sections.appetizers": "Appetizers",
+    "fullMenu.sections.mainCourses": "Main Courses",
+    "fullMenu.sections.desserts": "Desserts",
+    "fullMenu.sections.beverages": "Beverages",
+
+    // Signature Pho
+    "fullMenu.phoRoyal.title": "Pho Royal",
+    "fullMenu.phoRoyal.desc":
+      "Premium beef bone broth, wagyu beef slices, bone marrow, truffle oil, and hand-selected herbs",
+    "fullMenu.phoRoyal.tag1": "Signature",
+    "fullMenu.phoRoyal.tag2": "Gluten-free",
+
+    "fullMenu.phoSeafood.title": "Pho Seafood Deluxe",
+    "fullMenu.phoSeafood.desc": "Seafood broth, lobster tail, jumbo shrimp, scallops, and seasonal vegetables",
+    "fullMenu.phoSeafood.tag1": "Chef's Choice",
+    "fullMenu.phoSeafood.tag2": "Dairy-free",
+
+    "fullMenu.phoVegetable.title": "Pho Vegetable Garden",
+    "fullMenu.phoVegetable.desc": "Aromatic vegetable broth, seasonal organic vegetables, tofu, and exotic mushrooms",
+    "fullMenu.phoVegetable.tag1": "Vegan",
+    "fullMenu.phoVegetable.tag2": "Organic",
+
+    "fullMenu.phoFilet.title": "Pho Filet Mignon",
+    "fullMenu.phoFilet.desc": "24-hour simmered beef broth, premium filet mignon slices, bone marrow, and fresh herbs",
+    "fullMenu.phoFilet.tag1": "Premium",
+    "fullMenu.phoFilet.tag2": "Gluten-free",
+
+    // Appetizers
+    "fullMenu.truffleSpringRolls.title": "Truffle Spring Rolls",
+    "fullMenu.truffleSpringRolls.desc":
+      "Fresh rice paper rolls with king prawns, pork belly, truffle oil, and premium herbs",
+    "fullMenu.truffleSpringRolls.tag1": "Signature",
+    "fullMenu.truffleSpringRolls.tag2": "Gluten-free",
+
+    "fullMenu.crispyImperialRolls.title": "Crispy Imperial Rolls",
+    "fullMenu.crispyImperialRolls.desc": "Crispy fried rolls with Wagyu beef, crab meat, and wood ear mushrooms",
+    "fullMenu.crispyImperialRolls.tag1": "Chef's Choice",
+
+    "fullMenu.lotusRootSalad.title": "Lotus Root Salad",
+    "fullMenu.lotusRootSalad.desc":
+      "Crisp lotus root, poached prawns, pork, and Vietnamese herbs with a premium fish sauce dressing",
+    "fullMenu.lotusRootSalad.tag1": "Refreshing",
+    "fullMenu.lotusRootSalad.tag2": "Gluten-free",
+
+    "fullMenu.beefCarpaccio.title": "Beef Carpaccio",
+    "fullMenu.beefCarpaccio.desc": "Thinly sliced Wagyu beef, Vietnamese herbs, crispy shallots, and citrus dressing",
+    "fullMenu.beefCarpaccio.tag1": "Premium",
+    "fullMenu.beefCarpaccio.tag2": "Gluten-free",
+
+    // Main Courses
+    "fullMenu.caramelizedPorkBelly.title": "Caramelized Pork Belly",
+    "fullMenu.caramelizedPorkBelly.desc":
+      "Slow-braised pork belly in caramel sauce with quail eggs, served with jasmine rice",
+    "fullMenu.caramelizedPorkBelly.tag1": "Traditional",
+
+    "fullMenu.lemongrassSeabass.title": "Lemongrass Seabass",
+    "fullMenu.lemongrassSeabass.desc": "Pan-seared seabass with lemongrass, ginger, and a light coconut sauce",
+    "fullMenu.lemongrassSeabass.tag1": "Chef's Choice",
+    "fullMenu.lemongrassSeabass.tag2": "Gluten-free",
+
+    "fullMenu.fiveSpiceDuck.title": "Five-Spice Duck",
+    "fullMenu.fiveSpiceDuck.desc":
+      "Crispy duck breast with five-spice glaze, served with tamarind sauce and steamed greens",
+    "fullMenu.fiveSpiceDuck.tag1": "Signature",
+
+    "fullMenu.grilledLemongrassBeef.title": "Grilled Lemongrass Beef",
+    "fullMenu.grilledLemongrassBeef.desc":
+      "Grilled premium beef with lemongrass, served with rice noodles and fresh herbs",
+    "fullMenu.grilledLemongrassBeef.tag1": "Popular",
+    "fullMenu.grilledLemongrassBeef.tag2": "Gluten-free",
+
+    // Desserts
+    "fullMenu.coconutPandanCremeBrulee.title": "Coconut Pandan Crème Brûlée",
+    "fullMenu.coconutPandanCremeBrulee.desc":
+      "Creamy coconut custard infused with pandan, topped with caramelized palm sugar",
+    "fullMenu.coconutPandanCremeBrulee.tag1": "Signature",
+
+    "fullMenu.mangoStickyRice.title": "Mango Sticky Rice",
+    "fullMenu.mangoStickyRice.desc": "Sweet coconut sticky rice with fresh mango and a drizzle of coconut cream",
+    "fullMenu.mangoStickyRice.tag1": "Traditional",
+    "fullMenu.mangoStickyRice.tag2": "Gluten-free",
+
+    "fullMenu.vietnameseCoffeeTiramisu.title": "Vietnamese Coffee Tiramisu",
+    "fullMenu.vietnameseCoffeeTiramisu.desc":
+      "Layers of coffee-soaked ladyfingers and mascarpone cream, with Vietnamese coffee",
+    "fullMenu.vietnameseCoffeeTiramisu.tag1": "Chef's Choice",
+
+    "fullMenu.lycheeSorbet.title": "Lychee Sorbet",
+    "fullMenu.lycheeSorbet.desc": "Refreshing lychee sorbet with fresh berries and mint",
+    "fullMenu.lycheeSorbet.tag1": "Light",
+    "fullMenu.lycheeSorbet.tag2": "Vegan",
+
+    // Beverages
+    "fullMenu.vietnameseCoffee.title": "Vietnamese Coffee",
+    "fullMenu.vietnameseCoffee.desc": "Traditional Vietnamese coffee with condensed milk, served hot or iced",
+    "fullMenu.vietnameseCoffee.tag1": "Signature",
+
+    "fullMenu.lemongrassGingerTea.title": "Lemongrass Ginger Tea",
+    "fullMenu.lemongrassGingerTea.desc": "Fresh lemongrass and ginger infusion, served hot or iced",
+    "fullMenu.lemongrassGingerTea.tag1": "Refreshing",
+
+    "fullMenu.passionFruitMojito.title": "Passion Fruit Mojito",
+    "fullMenu.passionFruitMojito.desc": "Fresh passion fruit, mint, lime, and rum (non-alcoholic option available)",
+    "fullMenu.passionFruitMojito.tag1": "Popular",
+
+    "fullMenu.freshCoconut.title": "Fresh Coconut",
+    "fullMenu.freshCoconut.desc": "Young coconut served with its refreshing water and tender meat",
+    "fullMenu.freshCoconut.tag1": "Natural",
+    "fullMenu.freshCoconut.tag2": "Vegan",
+
+    // CTA
+    "fullMenu.cta.title": "Ready to Experience Luxury Vietnamese Cuisine?",
+    "fullMenu.cta.subtitle":
+      "Join us for an unforgettable dining experience. Reserve your table today and discover the refined flavors of Maison Pho.",
+    "fullMenu.cta.button": "Make a Reservation",
+
     // Testimonials Section
     "testimonials.title": "What Our Guests Say",
     "testimonials.subtitle": "Discover why our guests keep coming back to experience our premium Vietnamese cuisine",
@@ -215,16 +337,6 @@ export const translations = {
     "chat.title": "Maison Pho Assistant",
     "chat.welcome": "Hello! I'm your virtual assistant for Maison Pho. How can I help you today?",
     "chat.error": "I'm sorry, something went wrong. Please try again later.",
-
-    //Menu
-    "menu.sections.signaturePho": "Signature Pho",
-    "menu.sections.appetizers": "Appetizers",
-    "menu.sections.mainCourses": "Main Courses",
-    "menu.sections.desserts": "Desserts",
-    "menu.sections.beverages": "Beverages",
-    "menu.cta.title": "Ready to Experience Luxury Vietnamese Cuisine?",
-    "menu.cta.subtitle": "Join us for an unforgettable dining experience...",
-    "menu.cta.button": "Make a Reservation",
   },
   vi: {
     // Navigation
@@ -275,6 +387,123 @@ export const translations = {
     "menu.phoVegetable.desc": "Nước dùng rau thơm, rau hữu cơ theo mùa, đậu phụ và nấm quý",
     "menu.phoVegetable.tag1": "Thuần Chay",
     "menu.phoVegetable.tag2": "Hữu Cơ",
+
+    // Full Menu Page
+    "fullMenu.title": "Thực Đơn Của Chúng Tôi",
+    "fullMenu.subtitle":
+      "Khám phá tuyển chọn các món ăn Việt Nam cao cấp, được chế biến với nguyên liệu tốt nhất và kỹ thuật truyền thống",
+
+    "fullMenu.sections.signaturePho": "Phở Đặc Trưng",
+    "fullMenu.sections.appetizers": "Món Khai Vị",
+    "fullMenu.sections.mainCourses": "Món Chính",
+    "fullMenu.sections.desserts": "Món Tráng Miệng",
+    "fullMenu.sections.beverages": "Đồ Uống",
+
+    // Signature Pho
+    "fullMenu.phoRoyal.title": "Phở Royal",
+    "fullMenu.phoRoyal.desc":
+      "Nước dùng xương bò cao cấp, thịt bò wagyu thái lát, tủy xương, dầu nấm truffle và các loại thảo mộc được chọn lọc",
+    "fullMenu.phoRoyal.tag1": "Đặc Trưng",
+    "fullMenu.phoRoyal.tag2": "Không Gluten",
+
+    "fullMenu.phoSeafood.title": "Phở Hải Sản Cao Cấp",
+    "fullMenu.phoSeafood.desc": "Nước dùng hải sản, đuôi tôm hùm, tôm sú, sò điệp và rau theo mùa",
+    "fullMenu.phoSeafood.tag1": "Lựa Chọn Của Bếp Trưởng",
+    "fullMenu.phoSeafood.tag2": "Không Sữa",
+
+    "fullMenu.phoVegetable.title": "Phở Vườn Rau",
+    "fullMenu.phoVegetable.desc": "Nước dùng rau thơm, rau hữu cơ theo mùa, đậu phụ và nấm quý",
+    "fullMenu.phoVegetable.tag1": "Thuần Chay",
+    "fullMenu.phoVegetable.tag2": "Hữu Cơ",
+
+    "fullMenu.phoFilet.title": "Phở Thăn Nội Bò",
+    "fullMenu.phoFilet.desc":
+      "Nước dùng bò ninh trong 24 giờ, thịt thăn nội bò cao cấp thái lát, tủy xương và rau thơm tươi",
+    "fullMenu.phoFilet.tag1": "Cao Cấp",
+    "fullMenu.phoFilet.tag2": "Không Gluten",
+
+    // Appetizers
+    "fullMenu.truffleSpringRolls.title": "Gỏi Cuốn Truffle",
+    "fullMenu.truffleSpringRolls.desc": "Gỏi cuốn tươi với tôm sú, thịt ba chỉ, dầu nấm truffle và rau thơm cao cấp",
+    "fullMenu.truffleSpringRolls.tag1": "Đặc Trưng",
+    "fullMenu.truffleSpringRolls.tag2": "Không Gluten",
+
+    "fullMenu.crispyImperialRolls.title": "Chả Giò Hoàng Gia",
+    "fullMenu.crispyImperialRolls.desc": "Chả giò giòn với thịt bò Wagyu, thịt cua và nấm mèo",
+    "fullMenu.crispyImperialRolls.tag1": "Lựa Chọn Của Bếp Trưởng",
+
+    "fullMenu.lotusRootSalad.title": "Gỏi Ngó Sen",
+    "fullMenu.lotusRootSalad.desc": "Ngó sen giòn, tôm luộc, thịt heo và rau thơm Việt Nam với nước mắm cao cấp",
+    "fullMenu.lotusRootSalad.tag1": "Thanh Mát",
+    "fullMenu.lotusRootSalad.tag2": "Không Gluten",
+
+    "fullMenu.beefCarpaccio.title": "Bò Tái Chanh",
+    "fullMenu.beefCarpaccio.desc": "Thịt bò Wagyu thái mỏng, rau thơm Việt Nam, hành phi giòn và nước sốt chanh",
+    "fullMenu.beefCarpaccio.tag1": "Cao Cấp",
+    "fullMenu.beefCarpaccio.tag2": "Không Gluten",
+
+    // Main Courses
+    "fullMenu.caramelizedPorkBelly.title": "Thịt Kho Tàu",
+    "fullMenu.caramelizedPorkBelly.desc": "Thịt ba chỉ kho chậm trong nước đường với trứng cút, phục vụ kèm cơm trắng",
+    "fullMenu.caramelizedPorkBelly.tag1": "Truyền Thống",
+
+    "fullMenu.lemongrassSeabass.title": "Cá Chẽm Sả",
+    "fullMenu.lemongrassSeabass.desc": "Cá chẽm áp chảo với sả, gừng và nước sốt dừa nhẹ",
+    "fullMenu.lemongrassSeabass.tag1": "Lựa Chọn Của Bếp Trưởng",
+    "fullMenu.lemongrassSeabass.tag2": "Không Gluten",
+
+    "fullMenu.fiveSpiceDuck.title": "Vịt Ngũ Vị Hương",
+    "fullMenu.fiveSpiceDuck.desc": "Ức vịt giòn với nước sốt ngũ vị hương, phục vụ kèm nước sốt me và rau xanh hấp",
+    "fullMenu.fiveSpiceDuck.tag1": "Đặc Trưng",
+
+    "fullMenu.grilledLemongrassBeef.title": "Bò Nướng Sả",
+    "fullMenu.grilledLemongrassBeef.desc": "Thịt bò cao cấp nướng với sả, phục vụ kèm bún và rau thơm tươi",
+    "fullMenu.grilledLemongrassBeef.tag1": "Phổ Biến",
+    "fullMenu.grilledLemongrassBeef.tag2": "Không Gluten",
+
+    // Desserts
+    "fullMenu.coconutPandanCremeBrulee.title": "Crème Brûlée Dừa Lá Dứa",
+    "fullMenu.coconutPandanCremeBrulee.desc": "Bánh flan dừa thơm ngon với lá dứa, phủ đường thốt nốt caramel hóa",
+    "fullMenu.coconutPandanCremeBrulee.tag1": "Đặc Trưng",
+
+    "fullMenu.mangoStickyRice.title": "Xôi Xoài",
+    "fullMenu.mangoStickyRice.desc": "Xôi dừa ngọt với xoài tươi và nước cốt dừa",
+    "fullMenu.mangoStickyRice.tag1": "Truyền Thống",
+    "fullMenu.mangoStickyRice.tag2": "Không Gluten",
+
+    "fullMenu.vietnameseCoffeeTiramisu.title": "Tiramisu Cà Phê Việt Nam",
+    "fullMenu.vietnameseCoffeeTiramisu.desc":
+      "Các lớp bánh ngón tay ngâm cà phê và kem mascarpone, với cà phê Việt Nam",
+    "fullMenu.vietnameseCoffeeTiramisu.tag1": "Lựa Chọn Của Bếp Trưởng",
+
+    "fullMenu.lycheeSorbet.title": "Sorbet Vải",
+    "fullMenu.lycheeSorbet.desc": "Sorbet vải thanh mát với quả mọng tươi và bạc hà",
+    "fullMenu.lycheeSorbet.tag1": "Nhẹ Nhàng",
+    "fullMenu.lycheeSorbet.tag2": "Thuần Chay",
+
+    // Beverages
+    "fullMenu.vietnameseCoffee.title": "Cà Phê Việt Nam",
+    "fullMenu.vietnameseCoffee.desc": "Cà phê Việt Nam truyền thống với sữa đặc, phục vụ nóng hoặc đá",
+    "fullMenu.vietnameseCoffee.tag1": "Đặc Trưng",
+
+    "fullMenu.lemongrassGingerTea.title": "Trà Sả Gừng",
+    "fullMenu.lemongrassGingerTea.desc": "Trà pha từ sả tươi và gừng, phục vụ nóng hoặc đá",
+    "fullMenu.lemongrassGingerTea.tag1": "Thanh Mát",
+
+    "fullMenu.passionFruitMojito.title": "Mojito Chanh Dây",
+    "fullMenu.passionFruitMojito.desc": "Chanh dây tươi, bạc hà, chanh và rum (có lựa chọn không cồn)",
+    "fullMenu.passionFruitMojito.tag1": "Phổ Biến",
+
+    "fullMenu.freshCoconut.title": "Dừa Tươi",
+    "fullMenu.freshCoconut.desc": "Dừa non phục vụ với nước dừa thanh mát và cơm dừa mềm",
+    "fullMenu.freshCoconut.tag1": "Tự Nhiên",
+    "fullMenu.freshCoconut.tag2": "Thuần Chay",
+
+    // CTA
+    "fullMenu.cta.title": "Sẵn Sàng Trải Nghiệm Ẩm Thực Việt Nam Cao Cấp?",
+    "fullMenu.cta.subtitle":
+      "Hãy tham gia cùng chúng tôi để có trải nghiệm ẩm thực khó quên. Đặt bàn ngay hôm nay và khám phá hương vị tinh tế của Maison Pho.",
+    "fullMenu.cta.button": "Đặt Bàn",
 
     // Testimonials Section
     "testimonials.title": "Khách Hàng Nói Gì",
@@ -444,15 +673,5 @@ export const translations = {
     "chat.title": "Trợ Lý Maison Pho",
     "chat.welcome": "Xin chào! Tôi là trợ lý ảo của Maison Pho. Tôi có thể giúp gì cho bạn hôm nay?",
     "chat.error": "Tôi xin lỗi, đã xảy ra lỗi. Vui lòng thử lại sau.",
-
-    //Menu
-    "menu.sections.signaturePho": "Phở Đặc Biệt",
-    "menu.sections.appetizers": "Khai Vị",
-    "menu.sections.mainCourses": "Món Chính",
-    "menu.sections.desserts": "Tráng Miệng",
-    "menu.sections.beverages": "Đồ Uống",
-    "menu.cta.title": "Sẵn sàng thưởng thức ẩm thực Việt cao cấp?",
-    "menu.cta.subtitle": "Tham gia cùng chúng tôi cho một trải nghiệm ẩm thực khó quên...",
-    "menu.cta.button": "Đặt Bàn Ngay",
   },
 }

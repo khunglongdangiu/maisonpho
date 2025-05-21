@@ -41,7 +41,7 @@ export default function Home() {
                 variant="outline"
                 className="border-white text-primary/90 hover:bg-white hover:text-primary"
               >
-                <Link href="#">{t("hero.reservation")}</Link>
+                <Link href="/reservations">{t("hero.reservation")}</Link>
               </Button>
             </div>
           </div>

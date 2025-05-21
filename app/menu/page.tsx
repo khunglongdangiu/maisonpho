@@ -1,3 +1,4 @@
+// Replace the entire file with this client component version
 import MenuClientPage from "./MenuClientPage"
 
 export const metadata = {
