@@ -5,6 +5,7 @@ import Link from "next/link"
 import { Navigation } from "@/components/navigation"
 import { Footer } from "@/components/footer"
 import { useLanguage } from "@/contexts/language-context"
+import { WeatherDisplay } from "@/components/weather-display"
 
 export default function NewsClientPage() {
   const { t } = useLanguage()
@@ -22,6 +23,10 @@ export default function NewsClientPage() {
               <p className="text-lg text-muted-foreground mb-0">{t("news.subtitle")}</p>
             </div>
           </div>
+           {/* Weather Display */}
+            <div className="mt-6 max-w-md mx-auto">
+              <WeatherDisplay />
+            </div>
         </section>
 
         {/* News Articles */}

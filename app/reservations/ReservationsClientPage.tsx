@@ -6,6 +6,7 @@ import { Footer } from "@/components/footer"
 import { ReservationForm } from "@/components/reservation-form"
 import { Clock, Phone } from "lucide-react"
 import { useLanguage } from "@/contexts/language-context"
+import { WeatherDisplay } from "@/components/weather-display"
 
 export default function ReservationsClientPage() {
   const { t } = useLanguage()
@@ -23,6 +24,10 @@ export default function ReservationsClientPage() {
               <p className="text-lg text-muted-foreground mb-0">{t("reservation.subtitle")}</p>
             </div>
           </div>
+           {/* Weather Display */}
+            <div className="mt-6 max-w-md mx-auto">
+              <WeatherDisplay />
+            </div>
         </section>
 
         {/* Reservation Form Section */}

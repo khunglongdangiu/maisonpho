@@ -337,6 +337,12 @@ export const translations = {
     "chat.title": "Maison Pho Assistant",
     "chat.welcome": "Hello! I'm your virtual assistant for Maison Pho. How can I help you today?",
     "chat.error": "I'm sorry, something went wrong. Please try again later.",
+
+     // Weather
+    "weather.loading": "Loading weather...",
+    "weather.error": "Failed to load weather data",
+    "weather.currentLocation": "Current Location",
+    "weather.geolocationNotSupported": "Geolocation is not supported by your browser",
   },
   vi: {
     // Navigation
@@ -673,5 +679,11 @@ export const translations = {
     "chat.title": "Trợ Lý Maison Pho",
     "chat.welcome": "Xin chào! Tôi là trợ lý ảo của Maison Pho. Tôi có thể giúp gì cho bạn hôm nay?",
     "chat.error": "Tôi xin lỗi, đã xảy ra lỗi. Vui lòng thử lại sau.",
+
+    // Weather
+    "weather.loading": "Đang tải dữ liệu thời tiết...",
+    "weather.error": "Không thể tải dữ liệu thời tiết",
+    "weather.currentLocation": "Vị Trí Hiện Tại",
+    "weather.geolocationNotSupported": "Trình duyệt không hỗ trợ định vị",
   },
 }
