@@ -49,6 +49,18 @@ export async function generateChatResponse(messages: { role: "user" | "model"; c
 
     // Use the gemini-pro model
     const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" })
+    
+    /*
+    // Use the gemini model with custom generation config
+    const model = genAI.getGenerativeModel({
+      model: "gemini-2.0-flash",
+      generationConfig: {
+        temperature: 0.7,
+        topP: 0.95,
+        topK: 40,
+      },
+    })
+    */
 
     // Get the last user message (which should be the current question)
     const lastUserMessage = messages[messages.length - 1]

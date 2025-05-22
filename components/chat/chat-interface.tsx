@@ -9,6 +9,7 @@ import { Input } from "@/components/ui/input"
 import { generateChatResponse } from "@/app/actions/chat-actions"
 import { useLanguage } from "@/contexts/language-context"
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert"
+import { marked } from "marked"
 
 type Message = {
   role: "user" | "model"
@@ -55,6 +56,25 @@ export function ChatInterface({ onClose }: ChatInterfaceProps) {
       },
     ])
   }, [language, t])
+
+  // Function to render markdown content
+  const renderMarkdown = (content: string) => {
+    try {
+      // Configure marked options
+      marked.setOptions({
+        breaks: true, // Add line breaks
+        gfm: true, // Enable GitHub Flavored Markdown
+      })
+
+      // Parse markdown to HTML
+      const html = marked.parse(content)
+
+      return { __html: html }
+    } catch (error) {
+      console.error("Error parsing markdown:", error)
+      return { __html: content }
+    }
+  }
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
@@ -169,7 +189,11 @@ export function ChatInterface({ onClose }: ChatInterfaceProps) {
                   : "bg-muted text-foreground rounded-tl-none"
               }`}
             >
-              <p className="text-sm whitespace-pre-wrap">{message.content}</p>
+              {message.role === "user" ? (
+                <p className="text-sm whitespace-pre-wrap">{message.content}</p>
+              ) : (
+                <div className="text-sm chat-markdown" dangerouslySetInnerHTML={renderMarkdown(message.content)} />
+              )}
             </div>
           </div>
         ))}
