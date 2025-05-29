@@ -31,7 +31,7 @@ export default function LocationClientPage() {
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
               <div className="lg:col-span-2 h-[500px] rounded-lg overflow-hidden shadow-lg">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.215175515263!2d-73.98784492404045!3d40.75784623440235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes%20Square!5e0!3m2!1sen!2sus!4v1716034210000!5m2!1sen!2sus"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.520478095003!2d106.69355897494292!3d10.771391259286764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752fba354e2425%3A0xa794a1a48ee7a0ca!2zUGjhu58gVmnhu4d0IE5hbQ!5e0!3m2!1sen!2s!4v1748491297680!5m2!1sen!2s"
                   width="100%"
                   height="100%"
                   style={{ border: 0 }}
@@ -49,9 +49,9 @@ export default function LocationClientPage() {
                   <div className="flex items-start gap-3">
                     <MapPin className="h-5 w-5 text-primary shrink-0 mt-0.5" />
                     <p className="text-muted-foreground">
-                      123 Elegance Avenue, Luxury District
+                      14 Pham Hong Thai, Ben Thanh Ward, District 1
                       <br />
-                      New York, NY 10001
+                      Ho Chi Minh City, HCM 710100
                     </p>
                   </div>
                 </div>
@@ -90,7 +90,7 @@ export default function LocationClientPage() {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               <div className="aspect-[4/3] rounded-lg overflow-hidden">
                 <Image
-                  src="/placeholder.svg?height=400&width=600"
+                  src="/nhahang1.png?height=400&width=600"
                   alt="Restaurant exterior"
                   width={600}
                   height={400}
@@ -99,7 +99,7 @@ export default function LocationClientPage() {
               </div>
               <div className="aspect-[4/3] rounded-lg overflow-hidden">
                 <Image
-                  src="/placeholder.svg?height=400&width=600"
+                  src="/nhahang2.png?height=400&width=600"
                   alt="Restaurant interior"
                   width={600}
                   height={400}
@@ -108,7 +108,7 @@ export default function LocationClientPage() {
               </div>
               <div className="aspect-[4/3] rounded-lg overflow-hidden">
                 <Image
-                  src="/placeholder.svg?height=400&width=600"
+                  src="/nhahang3.png?height=400&width=600"
                   alt="Private dining room"
                   width={600}
                   height={400}
@@ -130,7 +130,7 @@ export default function LocationClientPage() {
               </div>
               <div className="aspect-[4/3] rounded-lg overflow-hidden">
                 <Image
-                  src="/placeholder.svg?height=400&width=600"
+                  src="/nhahang4.png?height=400&width=600"
                   alt="Private event setup"
                   width={600}
                   height={400}

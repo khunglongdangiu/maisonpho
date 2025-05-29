@@ -199,13 +199,13 @@ export const translations = {
     // Footer
     "footer.description":
       "Experience the finest Vietnamese cuisine in an elegant setting. Our premium ingredients and traditional recipes create an unforgettable dining experience.",
-    "footer.address": "123 Elegance Avenue, Luxury District",
-    "footer.city": "New York, NY 10001",
+    "footer.address": "14 Pham Hong Thai, Ben Thanh Ward, District 1",
+    "footer.city": "Ho Chi Minh City, HCM 710100",
     "footer.hours.title": "Opening Hours",
     "footer.hours.monThu": "Monday - Thursday: 11:30 AM - 10:00 PM",
     "footer.hours.friSat": "Friday - Saturday: 11:30 AM - 11:00 PM",
     "footer.hours.sun": "Sunday: 12:00 PM - 9:00 PM",
-    "footer.copyright": "© 2023 Maison Pho. All rights reserved.",
+    "footer.copyright": "© 2025 Maison Pho. All rights reserved.",
     "footer.privacy": "Privacy Policy",
     "footer.terms": "Terms of Service",
     "footer.payments": "We accept",
@@ -543,13 +543,13 @@ export const translations = {
     // Footer
     "footer.description":
       "Trải nghiệm ẩm thực Việt Nam tinh tế trong không gian thanh lịch. Nguyên liệu cao cấp và công thức truyền thống của chúng tôi tạo nên trải nghiệm ẩm thực khó quên.",
-    "footer.address": "123 Đại lộ Elegance, Quận Luxury",
-    "footer.city": "New York, NY 10001",
+    "footer.address": "14 Phạm Hồng Thái, Phường Bến Thành, Quận 1",
+    "footer.city": "Thành phố Hồ Chí Minh, HCM 710100",
     "footer.hours.title": "Giờ Mở Cửa",
     "footer.hours.monThu": "Thứ Hai - Thứ Năm: 11:30 - 22:00",
     "footer.hours.friSat": "Thứ Sáu - Thứ Bảy: 11:30 - 23:00",
     "footer.hours.sun": "Chủ Nhật: 12:00 - 21:00",
-    "footer.copyright": "© 2023 Maison Pho. Đã đăng ký bản quyền.",
+    "footer.copyright": "© 2025 Maison Pho. Đã đăng ký bản quyền.",
     "footer.privacy": "Chính Sách Bảo Mật",
     "footer.terms": "Điều Khoản Dịch Vụ",
     "footer.payments": "Chúng tôi chấp nhận",

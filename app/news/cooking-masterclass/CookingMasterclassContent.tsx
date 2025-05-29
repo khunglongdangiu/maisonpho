@@ -30,7 +30,7 @@ export default function CookingMasterclassContent() {
             <div className="max-w-3xl mx-auto">
               <div className="aspect-[16/9] rounded-lg overflow-hidden mb-8">
                 <Image
-                  src="/placeholder.svg?height=900&width=1600"
+                  src="/lopnauan.png?height=900&width=1600"
                   alt="Cooking Masterclass"
                   width={1600}
                   height={900}

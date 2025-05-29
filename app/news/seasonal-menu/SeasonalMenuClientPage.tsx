@@ -30,7 +30,7 @@ export default function SeasonalMenuClientPage() {
             <div className="max-w-3xl mx-auto">
               <div className="aspect-[16/9] rounded-lg overflow-hidden mb-8">
                 <Image
-                  src="/placeholder.svg?height=900&width=1600"
+                  src="/menu_theo_mua.png?height=900&width=1600"
                   alt="Seasonal Menu"
                   width={1600}
                   height={900}
