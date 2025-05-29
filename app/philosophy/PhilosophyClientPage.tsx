@@ -51,7 +51,7 @@ export default function PhilosophyClientPage() {
               <div className="relative">
                 <div className="aspect-[4/5] rounded-lg overflow-hidden">
                   <Image
-                    src="/placeholder.svg?height=800&width=640"
+                    src="/chef_ava.png?height=800&width=640"
                     alt="Chef preparing ingredients"
                     width={640}
                     height={800}
@@ -80,7 +80,7 @@ export default function PhilosophyClientPage() {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               <div className="aspect-[4/3] rounded-lg overflow-hidden">
                 <Image
-                  src="/placeholder.svg?height=400&width=600"
+                  src="/tl1.png?height=400&width=600"
                   alt="Fresh ingredients"
                   width={600}
                   height={400}
@@ -89,7 +89,7 @@ export default function PhilosophyClientPage() {
               </div>
               <div className="aspect-[4/3] rounded-lg overflow-hidden">
                 <Image
-                  src="/placeholder.svg?height=400&width=600"
+                  src="/tl2.png?height=400&width=600"
                   alt="Traditional cooking techniques"
                   width={600}
                   height={400}
@@ -98,7 +98,7 @@ export default function PhilosophyClientPage() {
               </div>
               <div className="aspect-[4/3] rounded-lg overflow-hidden">
                 <Image
-                  src="/placeholder.svg?height=400&width=600"
+                  src="/tl3.png?height=400&width=600"
                   alt="Elegant presentation"
                   width={600}
                   height={400}

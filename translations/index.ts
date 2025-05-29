@@ -56,7 +56,7 @@ export const translations = {
 
     "fullMenu.sections.signaturePho": "Signature Pho",
     "fullMenu.sections.appetizers": "Appetizers",
-    "fullMenu.sections.mainCourses": "Main Courses",
+    "fullMenu.sections.mainCourses": "Classic Pho",
     "fullMenu.sections.desserts": "Desserts",
     "fullMenu.sections.beverages": "Beverages",
 
@@ -99,32 +99,30 @@ export const translations = {
     "fullMenu.lotusRootSalad.tag1": "Refreshing",
     "fullMenu.lotusRootSalad.tag2": "Gluten-free",
 
-    "fullMenu.beefCarpaccio.title": "Beef Carpaccio",
-    "fullMenu.beefCarpaccio.desc": "Thinly sliced Wagyu beef, Vietnamese herbs, crispy shallots, and citrus dressing",
-    "fullMenu.beefCarpaccio.tag1": "Premium",
-    "fullMenu.beefCarpaccio.tag2": "Gluten-free",
+    "fullMenu.banhQuay.title": "Youtiao (Vietnamese Fried Dough)",
+    "fullMenu.banhQuay.desc": "Made from premium flour, fried until golden brown, crispy, served with pho",
+    "fullMenu.banhQuay.tag1": "Popular",
+    "fullMenu.banhQuay.tag2": "Vegan",
 
     // Main Courses
-    "fullMenu.caramelizedPorkBelly.title": "Caramelized Pork Belly",
-    "fullMenu.caramelizedPorkBelly.desc":
-      "Slow-braised pork belly in caramel sauce with quail eggs, served with jasmine rice",
+    "fullMenu.caramelizedPorkBelly.title": "Beef Brisket Pho",
+    "fullMenu.caramelizedPorkBelly.desc": "The traditional beef Pho soup, not only has a delicious taste but also provides a lot of energy and nutrients for the body.",
     "fullMenu.caramelizedPorkBelly.tag1": "Traditional",
 
-    "fullMenu.lemongrassSeabass.title": "Lemongrass Seabass",
-    "fullMenu.lemongrassSeabass.desc": "Pan-seared seabass with lemongrass, ginger, and a light coconut sauce",
+    "fullMenu.lemongrassSeabass.title": "Well-done Brisket Pho",
+    "fullMenu.lemongrassSeabass.desc": "Classic pho with tender slices of well-done brisket, slow-simmered in aromatic beef broth, served with fresh herbs and rice noodles",
     "fullMenu.lemongrassSeabass.tag1": "Chef's Choice",
-    "fullMenu.lemongrassSeabass.tag2": "Gluten-free",
+    "fullMenu.lemongrassSeabass.tag2": "Gluten-Free",
 
-    "fullMenu.fiveSpiceDuck.title": "Five-Spice Duck",
-    "fullMenu.fiveSpiceDuck.desc":
-      "Crispy duck breast with five-spice glaze, served with tamarind sauce and steamed greens",
-    "fullMenu.fiveSpiceDuck.tag1": "Signature",
+    "fullMenu.fiveSpiceDuck.title": "Rare Beef Pho",
+    "fullMenu.fiveSpiceDuck.desc": "Pho with thin slices of rare beef, lightly poached in hot, flavorful broth, served with soft rice noodles and fresh herbs",
+    "fullMenu.fiveSpiceDuck.tag1": "Popular",
+    "fullMenu.fiveSpiceDuck.tag2": "Signature",
 
-    "fullMenu.grilledLemongrassBeef.title": "Grilled Lemongrass Beef",
-    "fullMenu.grilledLemongrassBeef.desc":
-      "Grilled premium beef with lemongrass, served with rice noodles and fresh herbs",
-    "fullMenu.grilledLemongrassBeef.tag1": "Popular",
-    "fullMenu.grilledLemongrassBeef.tag2": "Gluten-free",
+    "fullMenu.grilledLemongrassBeef.title": "Combination Pho",
+    "fullMenu.grilledLemongrassBeef.desc": "A flavorful pho featuring a mix of rare beef, brisket, tendon, tripe, and beef meatballs in a rich, aromatic broth, served with rice noodles and fresh herbs",
+    "fullMenu.grilledLemongrassBeef.tag1": "Hearty",
+    "fullMenu.grilledLemongrassBeef.tag2": "Best Seller",
 
     // Desserts
     "fullMenu.coconutPandanCremeBrulee.title": "Coconut Pandan Crème Brûlée",
@@ -152,9 +150,10 @@ export const translations = {
     "fullMenu.vietnameseCoffee.desc": "Traditional Vietnamese coffee with condensed milk, served hot or iced",
     "fullMenu.vietnameseCoffee.tag1": "Signature",
 
-    "fullMenu.lemongrassGingerTea.title": "Lemongrass Ginger Tea",
-    "fullMenu.lemongrassGingerTea.desc": "Fresh lemongrass and ginger infusion, served hot or iced",
+    "fullMenu.lemongrassGingerTea.title": "Coca-Cola",
+    "fullMenu.lemongrassGingerTea.desc": "Classic Coca-Cola served chilled for a crisp, refreshing taste",
     "fullMenu.lemongrassGingerTea.tag1": "Refreshing",
+    "fullMenu.lemongrassGingerTea.tag2": "Cold Drink",
 
     "fullMenu.passionFruitMojito.title": "Passion Fruit Mojito",
     "fullMenu.passionFruitMojito.desc": "Fresh passion fruit, mint, lime, and rum (non-alcoholic option available)",
@@ -401,7 +400,7 @@ export const translations = {
 
     "fullMenu.sections.signaturePho": "Phở Đặc Trưng",
     "fullMenu.sections.appetizers": "Món Khai Vị",
-    "fullMenu.sections.mainCourses": "Món Chính",
+    "fullMenu.sections.mainCourses": "Phở truyền thống",
     "fullMenu.sections.desserts": "Món Tráng Miệng",
     "fullMenu.sections.beverages": "Đồ Uống",
 
@@ -443,29 +442,31 @@ export const translations = {
     "fullMenu.lotusRootSalad.tag1": "Thanh Mát",
     "fullMenu.lotusRootSalad.tag2": "Không Gluten",
 
-    "fullMenu.beefCarpaccio.title": "Bò Tái Chanh",
-    "fullMenu.beefCarpaccio.desc": "Thịt bò Wagyu thái mỏng, rau thơm Việt Nam, hành phi giòn và nước sốt chanh",
-    "fullMenu.beefCarpaccio.tag1": "Cao Cấp",
-    "fullMenu.beefCarpaccio.tag2": "Không Gluten",
+    "fullMenu.banhQuay.title": "Quẩy",
+    "fullMenu.banhQuay.desc": "Làm từ bột mì cao cấp, rán vừa chín vàng, giòn rụm, ăn kèm với phở",
+    "fullMenu.banhQuay.tag1": "Phổ Biến",
+    "fullMenu.banhQuay.tag2": "Thuần Chay",
 
     // Main Courses
-    "fullMenu.caramelizedPorkBelly.title": "Thịt Kho Tàu",
-    "fullMenu.caramelizedPorkBelly.desc": "Thịt ba chỉ kho chậm trong nước đường với trứng cút, phục vụ kèm cơm trắng",
+    "fullMenu.caramelizedPorkBelly.title": "Phở Gầu",
+    "fullMenu.caramelizedPorkBelly.desc": "Phở bò không chỉ có hương vị thơm ngon mà còn bổ sung nhiều năng lượng và chất dinh dưỡng dồi dào cho cơ thể.",
     "fullMenu.caramelizedPorkBelly.tag1": "Truyền Thống",
 
-    "fullMenu.lemongrassSeabass.title": "Cá Chẽm Sả",
-    "fullMenu.lemongrassSeabass.desc": "Cá chẽm áp chảo với sả, gừng và nước sốt dừa nhẹ",
-    "fullMenu.lemongrassSeabass.tag1": "Lựa Chọn Của Bếp Trưởng",
+    "fullMenu.lemongrassSeabass.title": "Phở Nạm",
+    "fullMenu.lemongrassSeabass.desc": "Phở truyền thống với những lát nạm chín mềm, hầm lâu trong nước dùng bò thơm ngon, ăn kèm rau thơm và bánh phở",
+    "fullMenu.lemongrassSeabass.tag1": "Gợi Ý Từ Bếp Trưởng",
     "fullMenu.lemongrassSeabass.tag2": "Không Gluten",
 
-    "fullMenu.fiveSpiceDuck.title": "Vịt Ngũ Vị Hương",
-    "fullMenu.fiveSpiceDuck.desc": "Ức vịt giòn với nước sốt ngũ vị hương, phục vụ kèm nước sốt me và rau xanh hấp",
-    "fullMenu.fiveSpiceDuck.tag1": "Đặc Trưng",
 
-    "fullMenu.grilledLemongrassBeef.title": "Bò Nướng Sả",
-    "fullMenu.grilledLemongrassBeef.desc": "Thịt bò cao cấp nướng với sả, phục vụ kèm bún và rau thơm tươi",
-    "fullMenu.grilledLemongrassBeef.tag1": "Phổ Biến",
-    "fullMenu.grilledLemongrassBeef.tag2": "Không Gluten",
+    "fullMenu.fiveSpiceDuck.title": "Phở Tái",
+    "fullMenu.fiveSpiceDuck.desc": "Phở với thịt bò tái thái mỏng, chần nhẹ trong nước dùng nóng đậm đà, ăn kèm bánh phở mềm và rau thơm tươi",
+    "fullMenu.fiveSpiceDuck.tag1": "Được Ưa Thích",
+    "fullMenu.fiveSpiceDuck.tag2": "Đặc Trưng",
+
+    "fullMenu.grilledLemongrassBeef.title": "Phở Thập Cẩm",
+    "fullMenu.grilledLemongrassBeef.desc": "Phở đậm đà với sự kết hợp của tái, nạm, gân, sách và bò viên trong nước dùng thơm ngon, ăn kèm bánh phở và rau thơm tươi",
+    "fullMenu.grilledLemongrassBeef.tag1": "Đầy Đặn",
+    "fullMenu.grilledLemongrassBeef.tag2": "Bán Chạy Nhất",
 
     // Desserts
     "fullMenu.coconutPandanCremeBrulee.title": "Crème Brûlée Dừa Lá Dứa",
@@ -492,9 +493,10 @@ export const translations = {
     "fullMenu.vietnameseCoffee.desc": "Cà phê Việt Nam truyền thống với sữa đặc, phục vụ nóng hoặc đá",
     "fullMenu.vietnameseCoffee.tag1": "Đặc Trưng",
 
-    "fullMenu.lemongrassGingerTea.title": "Trà Sả Gừng",
-    "fullMenu.lemongrassGingerTea.desc": "Trà pha từ sả tươi và gừng, phục vụ nóng hoặc đá",
-    "fullMenu.lemongrassGingerTea.tag1": "Thanh Mát",
+    "fullMenu.lemongrassGingerTea.title": "Coca-Cola",
+    "fullMenu.lemongrassGingerTea.desc": "Coca-Cola truyền thống, dùng lạnh để giữ vị ngon sảng khoái",
+    "fullMenu.lemongrassGingerTea.tag1": "Sảng Khoái",
+    "fullMenu.lemongrassGingerTea.tag2": "Đồ Uống Lạnh",
 
     "fullMenu.passionFruitMojito.title": "Mojito Chanh Dây",
     "fullMenu.passionFruitMojito.desc": "Chanh dây tươi, bạc hà, chanh và rum (có lựa chọn không cồn)",

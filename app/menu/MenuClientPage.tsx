@@ -35,7 +35,7 @@ export default function MenuClientPage() {
               <div className="flex gap-6">
                 <div className="w-24 h-24 rounded-lg overflow-hidden shrink-0">
                   <Image
-                    src="/placeholder.svg?height=96&width=96"
+                    src="/phoroyal_bao.png?height=96&width=96"
                     alt={t("fullMenu.phoRoyal.title")}
                     width={96}
                     height={96}
@@ -63,7 +63,7 @@ export default function MenuClientPage() {
               <div className="flex gap-6">
                 <div className="w-24 h-24 rounded-lg overflow-hidden shrink-0">
                   <Image
-                    src="/placeholder.svg?height=96&width=96"
+                    src="/pho_seafood.png?height=96&width=96"
                     alt={t("fullMenu.phoSeafood.title")}
                     width={96}
                     height={96}
@@ -91,7 +91,7 @@ export default function MenuClientPage() {
               <div className="flex gap-6">
                 <div className="w-24 h-24 rounded-lg overflow-hidden shrink-0">
                   <Image
-                    src="/placeholder.svg?height=96&width=96"
+                    src="/pho_veget.png?height=96&width=96"
                     alt={t("fullMenu.phoVegetable.title")}
                     width={96}
                     height={96}
@@ -119,7 +119,7 @@ export default function MenuClientPage() {
               <div className="flex gap-6">
                 <div className="w-24 h-24 rounded-lg overflow-hidden shrink-0">
                   <Image
-                    src="/placeholder.svg?height=96&width=96"
+                    src="/pho_mignet.png?height=96&width=96"
                     alt={t("fullMenu.phoFilet.title")}
                     width={96}
                     height={96}
@@ -156,7 +156,7 @@ export default function MenuClientPage() {
               <div className="flex gap-6">
                 <div className="w-24 h-24 rounded-lg overflow-hidden shrink-0">
                   <Image
-                    src="/placeholder.svg?height=96&width=96"
+                    src="/goi_cuon_truffle.png?height=96&width=96"
                     alt={t("fullMenu.truffleSpringRolls.title")}
                     width={96}
                     height={96}
@@ -184,7 +184,7 @@ export default function MenuClientPage() {
               <div className="flex gap-6">
                 <div className="w-24 h-24 rounded-lg overflow-hidden shrink-0">
                   <Image
-                    src="/placeholder.svg?height=96&width=96"
+                    src="/cghg.png?height=96&width=96"
                     alt={t("fullMenu.crispyImperialRolls.title")}
                     width={96}
                     height={96}
@@ -209,7 +209,7 @@ export default function MenuClientPage() {
               <div className="flex gap-6">
                 <div className="w-24 h-24 rounded-lg overflow-hidden shrink-0">
                   <Image
-                    src="/placeholder.svg?height=96&width=96"
+                    src="/goi_sen.png?height=96&width=96"
                     alt={t("fullMenu.lotusRootSalad.title")}
                     width={96}
                     height={96}
@@ -237,8 +237,8 @@ export default function MenuClientPage() {
               <div className="flex gap-6">
                 <div className="w-24 h-24 rounded-lg overflow-hidden shrink-0">
                   <Image
-                    src="/placeholder.svg?height=96&width=96"
-                    alt={t("fullMenu.beefCarpaccio.title")}
+                    src="/quay.png?height=96&width=96"
+                    alt={t("fullMenu.banhQuay.title")}
                     width={96}
                     height={96}
                     className="object-cover w-full h-full"
@@ -246,16 +246,16 @@ export default function MenuClientPage() {
                 </div>
                 <div>
                   <div className="flex justify-between items-start mb-2">
-                    <h3 className="text-xl font-semibold text-primary">{t("fullMenu.beefCarpaccio.title")}</h3>
+                    <h3 className="text-xl font-semibold text-primary">{t("fullMenu.banhQuay.title")}</h3>
                     <span className="text-lg font-medium text-primary ml-4">$20</span>
                   </div>
-                  <p className="text-muted-foreground mb-2">{t("fullMenu.beefCarpaccio.desc")}</p>
+                  <p className="text-muted-foreground mb-2">{t("fullMenu.banhQuay.desc")}</p>
                   <div className="flex items-center text-sm text-muted-foreground">
                     <span className="inline-block px-2 py-1 bg-secondary rounded-full mr-2">
-                      {t("fullMenu.beefCarpaccio.tag1")}
+                      {t("fullMenu.banhQuay.tag1")}
                     </span>
                     <span className="inline-block px-2 py-1 bg-secondary rounded-full">
-                      {t("fullMenu.beefCarpaccio.tag2")}
+                      {t("fullMenu.banhQuay.tag2")}
                     </span>
                   </div>
                 </div>
@@ -274,7 +274,7 @@ export default function MenuClientPage() {
               <div className="flex gap-6">
                 <div className="w-24 h-24 rounded-lg overflow-hidden shrink-0">
                   <Image
-                    src="/placeholder.svg?height=96&width=96"
+                    src="/pho_gau.png?height=96&width=96"
                     alt={t("fullMenu.caramelizedPorkBelly.title")}
                     width={96}
                     height={96}
@@ -288,7 +288,7 @@ export default function MenuClientPage() {
                   </div>
                   <p className="text-muted-foreground mb-2">{t("fullMenu.caramelizedPorkBelly.desc")}</p>
                   <div className="flex items-center text-sm text-muted-foreground">
-                    <span className="inline-block px-2 py-1 bg-secondary rounded-full">
+                    <span className="inline-block px-2 py-1 bg-secondary rounded-full mr-2">
                       {t("fullMenu.caramelizedPorkBelly.tag1")}
                     </span>
                   </div>
@@ -299,7 +299,7 @@ export default function MenuClientPage() {
               <div className="flex gap-6">
                 <div className="w-24 h-24 rounded-lg overflow-hidden shrink-0">
                   <Image
-                    src="/placeholder.svg?height=96&width=96"
+                    src="/pho_nam.png?height=96&width=96"
                     alt={t("fullMenu.lemongrassSeabass.title")}
                     width={96}
                     height={96}
@@ -327,7 +327,7 @@ export default function MenuClientPage() {
               <div className="flex gap-6">
                 <div className="w-24 h-24 rounded-lg overflow-hidden shrink-0">
                   <Image
-                    src="/placeholder.svg?height=96&width=96"
+                    src="/pho_tai.png?height=96&width=96"
                     alt={t("fullMenu.fiveSpiceDuck.title")}
                     width={96}
                     height={96}
@@ -341,8 +341,11 @@ export default function MenuClientPage() {
                   </div>
                   <p className="text-muted-foreground mb-2">{t("fullMenu.fiveSpiceDuck.desc")}</p>
                   <div className="flex items-center text-sm text-muted-foreground">
-                    <span className="inline-block px-2 py-1 bg-secondary rounded-full">
+                    <span className="inline-block px-2 py-1 bg-secondary rounded-full mr-2">
                       {t("fullMenu.fiveSpiceDuck.tag1")}
+                    </span>
+                    <span className="inline-block px-2 py-1 bg-secondary rounded-full">
+                      {t("fullMenu.fiveSpiceDuck.tag2")}
                     </span>
                   </div>
                 </div>
@@ -352,7 +355,7 @@ export default function MenuClientPage() {
               <div className="flex gap-6">
                 <div className="w-24 h-24 rounded-lg overflow-hidden shrink-0">
                   <Image
-                    src="/placeholder.svg?height=96&width=96"
+                    src="/pho_thap_cam.png?height=96&width=96"
                     alt={t("fullMenu.grilledLemongrassBeef.title")}
                     width={96}
                     height={96}
@@ -389,7 +392,7 @@ export default function MenuClientPage() {
               <div className="flex gap-6">
                 <div className="w-24 h-24 rounded-lg overflow-hidden shrink-0">
                   <Image
-                    src="/placeholder.svg?height=96&width=96"
+                    src="/creme.png?height=96&width=96"
                     alt={t("fullMenu.coconutPandanCremeBrulee.title")}
                     width={96}
                     height={96}
@@ -416,7 +419,7 @@ export default function MenuClientPage() {
               <div className="flex gap-6">
                 <div className="w-24 h-24 rounded-lg overflow-hidden shrink-0">
                   <Image
-                    src="/placeholder.svg?height=96&width=96"
+                    src="/xoi_xoai.png?height=96&width=96"
                     alt={t("fullMenu.mangoStickyRice.title")}
                     width={96}
                     height={96}
@@ -444,7 +447,7 @@ export default function MenuClientPage() {
               <div className="flex gap-6">
                 <div className="w-24 h-24 rounded-lg overflow-hidden shrink-0">
                   <Image
-                    src="/placeholder.svg?height=96&width=96"
+                    src="/tiramisu_cafe.png?height=96&width=96"
                     alt={t("fullMenu.vietnameseCoffeeTiramisu.title")}
                     width={96}
                     height={96}
@@ -471,7 +474,7 @@ export default function MenuClientPage() {
               <div className="flex gap-6">
                 <div className="w-24 h-24 rounded-lg overflow-hidden shrink-0">
                   <Image
-                    src="/placeholder.svg?height=96&width=96"
+                    src="/sobret_vai.png?height=96&width=96"
                     alt={t("fullMenu.lycheeSorbet.title")}
                     width={96}
                     height={96}
@@ -508,7 +511,7 @@ export default function MenuClientPage() {
               <div className="flex gap-6">
                 <div className="w-24 h-24 rounded-lg overflow-hidden shrink-0">
                   <Image
-                    src="/placeholder.svg?height=96&width=96"
+                    src="/cfvn.png?height=96&width=96"
                     alt={t("fullMenu.vietnameseCoffee.title")}
                     width={96}
                     height={96}
@@ -533,7 +536,7 @@ export default function MenuClientPage() {
               <div className="flex gap-6">
                 <div className="w-24 h-24 rounded-lg overflow-hidden shrink-0">
                   <Image
-                    src="/placeholder.svg?height=96&width=96"
+                    src="/coke.png?height=96&width=96"
                     alt={t("fullMenu.lemongrassGingerTea.title")}
                     width={96}
                     height={96}
@@ -547,8 +550,11 @@ export default function MenuClientPage() {
                   </div>
                   <p className="text-muted-foreground mb-2">{t("fullMenu.lemongrassGingerTea.desc")}</p>
                   <div className="flex items-center text-sm text-muted-foreground">
-                    <span className="inline-block px-2 py-1 bg-secondary rounded-full">
+                    <span className="inline-block px-2 py-1 bg-secondary rounded-full mr-2">
                       {t("fullMenu.lemongrassGingerTea.tag1")}
+                    </span>
+                    <span className="inline-block px-2 py-1 bg-secondary rounded-full">
+                      {t("fullMenu.lemongrassGingerTea.tag2")}
                     </span>
                   </div>
                 </div>
@@ -558,7 +564,7 @@ export default function MenuClientPage() {
               <div className="flex gap-6">
                 <div className="w-24 h-24 rounded-lg overflow-hidden shrink-0">
                   <Image
-                    src="/placeholder.svg?height=96&width=96"
+                    src="/mochito_cd.png?height=96&width=96"
                     alt={t("fullMenu.passionFruitMojito.title")}
                     width={96}
                     height={96}
@@ -583,7 +589,7 @@ export default function MenuClientPage() {
               <div className="flex gap-6">
                 <div className="w-24 h-24 rounded-lg overflow-hidden shrink-0">
                   <Image
-                    src="/placeholder.svg?height=96&width=96"
+                    src="/coconut.png?height=96&width=96"
                     alt={t("fullMenu.freshCoconut.title")}
                     width={96}
                     height={96}

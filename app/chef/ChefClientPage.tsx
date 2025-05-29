@@ -30,7 +30,7 @@ export default function ChefClientPage() {
               <div className="relative order-2 lg:order-1">
                 <div className="aspect-[4/5] rounded-lg overflow-hidden">
                   <Image
-                    src="/placeholder.svg?height=800&width=640"
+                    src="/ramsey0.png?height=800&width=640"
                     alt="Chef Minh Nguyen"
                     width={640}
                     height={800}
@@ -147,7 +147,7 @@ export default function ChefClientPage() {
             <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
               <div className="aspect-square rounded-lg overflow-hidden">
                 <Image
-                  src="/placeholder.svg?height=400&width=400"
+                  src="/ramsey_bep.png?height=400&width=400"
                   alt="Chef in action"
                   width={400}
                   height={400}
@@ -156,7 +156,7 @@ export default function ChefClientPage() {
               </div>
               <div className="aspect-square rounded-lg overflow-hidden">
                 <Image
-                  src="/placeholder.svg?height=400&width=400"
+                  src="/ramsey_bep2.png?height=400&width=400"
                   alt="Chef preparing dish"
                   width={400}
                   height={400}
@@ -165,7 +165,7 @@ export default function ChefClientPage() {
               </div>
               <div className="aspect-square rounded-lg overflow-hidden">
                 <Image
-                  src="/placeholder.svg?height=400&width=400"
+                  src="/ramsey_bep3.png?height=400&width=400"
                   alt="Chef with team"
                   width={400}
                   height={400}
@@ -174,7 +174,7 @@ export default function ChefClientPage() {
               </div>
               <div className="aspect-square rounded-lg overflow-hidden">
                 <Image
-                  src="/placeholder.svg?height=400&width=400"
+                  src="/ramsey_bep4.png?height=400&width=400"
                   alt="Chef's signature dish"
                   width={400}
                   height={400}
