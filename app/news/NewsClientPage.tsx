@@ -37,7 +37,7 @@ export default function NewsClientPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-8 items-center">
                 <div className="aspect-[4/3] rounded-lg overflow-hidden">
                   <Image
-                    src="/placeholder.svg?height=400&width=600"
+                    src="/trao_sao.png?height=400&width=600"
                     alt="Michelin Star Award"
                     width={600}
                     height={400}
@@ -65,7 +65,7 @@ export default function NewsClientPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-8 items-center">
                 <div className="aspect-[4/3] rounded-lg overflow-hidden">
                   <Image
-                    src="/placeholder.svg?height=400&width=600"
+                    src="/menu_theo_mua.png?height=400&width=600"
                     alt="Seasonal Menu"
                     width={600}
                     height={400}
@@ -93,7 +93,7 @@ export default function NewsClientPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-8 items-center">
                 <div className="aspect-[4/3] rounded-lg overflow-hidden">
                   <Image
-                    src="/placeholder.svg?height=400&width=600"
+                    src="/lopnauan.png?height=400&width=600"
                     alt="Cooking Masterclass"
                     width={600}
                     height={400}
