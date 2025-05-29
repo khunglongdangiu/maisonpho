@@ -45,7 +45,7 @@ export default function MenuClientPage() {
                 <div>
                   <div className="flex justify-between items-start mb-2">
                     <h3 className="text-xl font-semibold text-primary">{t("fullMenu.phoRoyal.title")}</h3>
-                    <span className="text-lg font-medium text-primary ml-4">$24</span>
+                    <span className="text-lg font-medium text-primary ml-4">3.990.000₫</span>
                   </div>
                   <p className="text-muted-foreground mb-2">{t("fullMenu.phoRoyal.desc")}</p>
                   <div className="flex items-center text-sm text-muted-foreground">
@@ -73,7 +73,7 @@ export default function MenuClientPage() {
                 <div>
                   <div className="flex justify-between items-start mb-2">
                     <h3 className="text-xl font-semibold text-primary">{t("fullMenu.phoSeafood.title")}</h3>
-                    <span className="text-lg font-medium text-primary ml-4">$28</span>
+                    <span className="text-lg font-medium text-primary ml-4">450.000₫</span>
                   </div>
                   <p className="text-muted-foreground mb-2">{t("fullMenu.phoSeafood.desc")}</p>
                   <div className="flex items-center text-sm text-muted-foreground">
@@ -101,7 +101,7 @@ export default function MenuClientPage() {
                 <div>
                   <div className="flex justify-between items-start mb-2">
                     <h3 className="text-xl font-semibold text-primary">{t("fullMenu.phoVegetable.title")}</h3>
-                    <span className="text-lg font-medium text-primary ml-4">$22</span>
+                    <span className="text-lg font-medium text-primary ml-4">475.000₫</span>
                   </div>
                   <p className="text-muted-foreground mb-2">{t("fullMenu.phoVegetable.desc")}</p>
                   <div className="flex items-center text-sm text-muted-foreground">
@@ -129,7 +129,7 @@ export default function MenuClientPage() {
                 <div>
                   <div className="flex justify-between items-start mb-2">
                     <h3 className="text-xl font-semibold text-primary">{t("fullMenu.phoFilet.title")}</h3>
-                    <span className="text-lg font-medium text-primary ml-4">$26</span>
+                    <span className="text-lg font-medium text-primary ml-4">490.000₫</span>
                   </div>
                   <p className="text-muted-foreground mb-2">{t("fullMenu.phoFilet.desc")}</p>
                   <div className="flex items-center text-sm text-muted-foreground">
@@ -166,7 +166,7 @@ export default function MenuClientPage() {
                 <div>
                   <div className="flex justify-between items-start mb-2">
                     <h3 className="text-xl font-semibold text-primary">{t("fullMenu.truffleSpringRolls.title")}</h3>
-                    <span className="text-lg font-medium text-primary ml-4">$16</span>
+                    <span className="text-lg font-medium text-primary ml-4">599.000₫</span>
                   </div>
                   <p className="text-muted-foreground mb-2">{t("fullMenu.truffleSpringRolls.desc")}</p>
                   <div className="flex items-center text-sm text-muted-foreground">
@@ -194,7 +194,7 @@ export default function MenuClientPage() {
                 <div>
                   <div className="flex justify-between items-start mb-2">
                     <h3 className="text-xl font-semibold text-primary">{t("fullMenu.crispyImperialRolls.title")}</h3>
-                    <span className="text-lg font-medium text-primary ml-4">$14</span>
+                    <span className="text-lg font-medium text-primary ml-4">199.000₫</span>
                   </div>
                   <p className="text-muted-foreground mb-2">{t("fullMenu.crispyImperialRolls.desc")}</p>
                   <div className="flex items-center text-sm text-muted-foreground">
@@ -219,7 +219,7 @@ export default function MenuClientPage() {
                 <div>
                   <div className="flex justify-between items-start mb-2">
                     <h3 className="text-xl font-semibold text-primary">{t("fullMenu.lotusRootSalad.title")}</h3>
-                    <span className="text-lg font-medium text-primary ml-4">$18</span>
+                    <span className="text-lg font-medium text-primary ml-4">199.000₫</span>
                   </div>
                   <p className="text-muted-foreground mb-2">{t("fullMenu.lotusRootSalad.desc")}</p>
                   <div className="flex items-center text-sm text-muted-foreground">
@@ -247,7 +247,7 @@ export default function MenuClientPage() {
                 <div>
                   <div className="flex justify-between items-start mb-2">
                     <h3 className="text-xl font-semibold text-primary">{t("fullMenu.banhQuay.title")}</h3>
-                    <span className="text-lg font-medium text-primary ml-4">$20</span>
+                    <span className="text-lg font-medium text-primary ml-4">19.000₫</span>
                   </div>
                   <p className="text-muted-foreground mb-2">{t("fullMenu.banhQuay.desc")}</p>
                   <div className="flex items-center text-sm text-muted-foreground">
@@ -284,7 +284,7 @@ export default function MenuClientPage() {
                 <div>
                   <div className="flex justify-between items-start mb-2">
                     <h3 className="text-xl font-semibold text-primary">{t("fullMenu.caramelizedPorkBelly.title")}</h3>
-                    <span className="text-lg font-medium text-primary ml-4">$32</span>
+                    <span className="text-lg font-medium text-primary ml-4">199.000₫</span>
                   </div>
                   <p className="text-muted-foreground mb-2">{t("fullMenu.caramelizedPorkBelly.desc")}</p>
                   <div className="flex items-center text-sm text-muted-foreground">
@@ -309,7 +309,7 @@ export default function MenuClientPage() {
                 <div>
                   <div className="flex justify-between items-start mb-2">
                     <h3 className="text-xl font-semibold text-primary">{t("fullMenu.lemongrassSeabass.title")}</h3>
-                    <span className="text-lg font-medium text-primary ml-4">$36</span>
+                    <span className="text-lg font-medium text-primary ml-4">199.000₫</span>
                   </div>
                   <p className="text-muted-foreground mb-2">{t("fullMenu.lemongrassSeabass.desc")}</p>
                   <div className="flex items-center text-sm text-muted-foreground">
@@ -337,7 +337,7 @@ export default function MenuClientPage() {
                 <div>
                   <div className="flex justify-between items-start mb-2">
                     <h3 className="text-xl font-semibold text-primary">{t("fullMenu.fiveSpiceDuck.title")}</h3>
-                    <span className="text-lg font-medium text-primary ml-4">$34</span>
+                    <span className="text-lg font-medium text-primary ml-4">199.000₫</span>
                   </div>
                   <p className="text-muted-foreground mb-2">{t("fullMenu.fiveSpiceDuck.desc")}</p>
                   <div className="flex items-center text-sm text-muted-foreground">
@@ -365,7 +365,7 @@ export default function MenuClientPage() {
                 <div>
                   <div className="flex justify-between items-start mb-2">
                     <h3 className="text-xl font-semibold text-primary">{t("fullMenu.grilledLemongrassBeef.title")}</h3>
-                    <span className="text-lg font-medium text-primary ml-4">$30</span>
+                    <span className="text-lg font-medium text-primary ml-4">299.000₫</span>
                   </div>
                   <p className="text-muted-foreground mb-2">{t("fullMenu.grilledLemongrassBeef.desc")}</p>
                   <div className="flex items-center text-sm text-muted-foreground">
@@ -404,7 +404,7 @@ export default function MenuClientPage() {
                     <h3 className="text-xl font-semibold text-primary">
                       {t("fullMenu.coconutPandanCremeBrulee.title")}
                     </h3>
-                    <span className="text-lg font-medium text-primary ml-4">$14</span>
+                    <span className="text-lg font-medium text-primary ml-4">99.000₫</span>
                   </div>
                   <p className="text-muted-foreground mb-2">{t("fullMenu.coconutPandanCremeBrulee.desc")}</p>
                   <div className="flex items-center text-sm text-muted-foreground">
@@ -429,7 +429,7 @@ export default function MenuClientPage() {
                 <div>
                   <div className="flex justify-between items-start mb-2">
                     <h3 className="text-xl font-semibold text-primary">{t("fullMenu.mangoStickyRice.title")}</h3>
-                    <span className="text-lg font-medium text-primary ml-4">$12</span>
+                    <span className="text-lg font-medium text-primary ml-4">89.000₫</span>
                   </div>
                   <p className="text-muted-foreground mb-2">{t("fullMenu.mangoStickyRice.desc")}</p>
                   <div className="flex items-center text-sm text-muted-foreground">
@@ -459,7 +459,7 @@ export default function MenuClientPage() {
                     <h3 className="text-xl font-semibold text-primary">
                       {t("fullMenu.vietnameseCoffeeTiramisu.title")}
                     </h3>
-                    <span className="text-lg font-medium text-primary ml-4">$15</span>
+                    <span className="text-lg font-medium text-primary ml-4">99.000₫</span>
                   </div>
                   <p className="text-muted-foreground mb-2">{t("fullMenu.vietnameseCoffeeTiramisu.desc")}</p>
                   <div className="flex items-center text-sm text-muted-foreground">
@@ -484,7 +484,7 @@ export default function MenuClientPage() {
                 <div>
                   <div className="flex justify-between items-start mb-2">
                     <h3 className="text-xl font-semibold text-primary">{t("fullMenu.lycheeSorbet.title")}</h3>
-                    <span className="text-lg font-medium text-primary ml-4">$10</span>
+                    <span className="text-lg font-medium text-primary ml-4">99.000₫</span>
                   </div>
                   <p className="text-muted-foreground mb-2">{t("fullMenu.lycheeSorbet.desc")}</p>
                   <div className="flex items-center text-sm text-muted-foreground">
@@ -521,7 +521,7 @@ export default function MenuClientPage() {
                 <div>
                   <div className="flex justify-between items-start mb-2">
                     <h3 className="text-xl font-semibold text-primary">{t("fullMenu.vietnameseCoffee.title")}</h3>
-                    <span className="text-lg font-medium text-primary ml-4">$6</span>
+                    <span className="text-lg font-medium text-primary ml-4">69.000₫</span>
                   </div>
                   <p className="text-muted-foreground mb-2">{t("fullMenu.vietnameseCoffee.desc")}</p>
                   <div className="flex items-center text-sm text-muted-foreground">
@@ -546,7 +546,7 @@ export default function MenuClientPage() {
                 <div>
                   <div className="flex justify-between items-start mb-2">
                     <h3 className="text-xl font-semibold text-primary">{t("fullMenu.lemongrassGingerTea.title")}</h3>
-                    <span className="text-lg font-medium text-primary ml-4">$5</span>
+                    <span className="text-lg font-medium text-primary ml-4">39.000₫</span>
                   </div>
                   <p className="text-muted-foreground mb-2">{t("fullMenu.lemongrassGingerTea.desc")}</p>
                   <div className="flex items-center text-sm text-muted-foreground">
@@ -574,7 +574,7 @@ export default function MenuClientPage() {
                 <div>
                   <div className="flex justify-between items-start mb-2">
                     <h3 className="text-xl font-semibold text-primary">{t("fullMenu.passionFruitMojito.title")}</h3>
-                    <span className="text-lg font-medium text-primary ml-4">$12</span>
+                    <span className="text-lg font-medium text-primary ml-4">59.000₫</span>
                   </div>
                   <p className="text-muted-foreground mb-2">{t("fullMenu.passionFruitMojito.desc")}</p>
                   <div className="flex items-center text-sm text-muted-foreground">
@@ -599,7 +599,7 @@ export default function MenuClientPage() {
                 <div>
                   <div className="flex justify-between items-start mb-2">
                     <h3 className="text-xl font-semibold text-primary">{t("fullMenu.freshCoconut.title")}</h3>
-                    <span className="text-lg font-medium text-primary ml-4">$8</span>
+                    <span className="text-lg font-medium text-primary ml-4">49.000₫</span>
                   </div>
                   <p className="text-muted-foreground mb-2">{t("fullMenu.freshCoconut.desc")}</p>
                   <div className="flex items-center text-sm text-muted-foreground">

@@ -64,7 +64,7 @@ export default function ReservationsClientPage() {
 
                 <div className="aspect-[4/3] rounded-lg overflow-hidden">
                   <Image
-                    src="/placeholder.svg?height=400&width=600"
+                    src="/datban.png?height=400&width=600"
                     alt="Restaurant interior"
                     width={600}
                     height={400}
