@@ -47,7 +47,7 @@ Beverages:
 
 Reservations:
 - Recommended for dinner service
-- Can be made online or by phone, not order the dishes not on the menu
+- Can be made online or by phone, not allow to order the dishes not on menu
 - For parties of 8 or more, please call directly
 `
 
